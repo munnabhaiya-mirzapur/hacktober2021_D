@@ -1,9 +1,9 @@
 T = int(input())
-for i in range(0,T):
-    
+for i in range(0, T):
+
     N = int(input())
 
-    elements_Array = list(map(int,input().split()))
+    elements_Array = list(map(int, input().split()))
 
     X = int(input())
 

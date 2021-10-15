@@ -1,2 +1,2 @@
-count=len(open("def.txt").read())
+count = len(open("def.txt").read())
 print(count)
